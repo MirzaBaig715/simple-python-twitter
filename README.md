@@ -1,8 +1,6 @@
-Django Rest Framework Challenge
-----------------
 This is simple implementation of Twitter API.
 This platform contains restfull APIs for the client end applications.
-We use $python-twitter to implement the task.
+We use $python-twitter to implement.
 
 Requirements
 ------------
@@ -18,8 +16,9 @@ Following are the steps to install this platform.
 
 - Create Virtual Environment
 ```sh
-$ git clone https://gitlab.com/MirzaBaig715/Django-REST-Challenge.git
-$ cd Challenge_task
+$ mkdir simple-python-twitter
+$ cd simple-python-twitter
+$ https://github.com/MirzaBaig715/simple-python-twitter.git
 $ virtualenv venv --python=python3
 $ virtualenv venv --python=python3
 $ cd venv
@@ -49,5 +48,3 @@ $ docker-compose run web python manage.py runserver
 $ pytest twitterapp/tests.py
 
 ```
-- Documentation
-https://documenter.getpostman.com/view/2377788/docker-challenge/RW1XM24d
