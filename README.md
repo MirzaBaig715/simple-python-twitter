@@ -1,6 +1,7 @@
+Simple Twitter Application
+----------------------------
 This is simple implementation of Twitter API.
-This platform contains restfull APIs for the client end applications.
-We use $python-twitter to implement.
+This platform contains restful APIs for the client end applications.
 
 Requirements
 ------------
