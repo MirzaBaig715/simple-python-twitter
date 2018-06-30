@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Challenge_task.wsgi.application'
+WSGI_APPLICATION = 'twitter_project.wsgi.application'
 
 
 # Database

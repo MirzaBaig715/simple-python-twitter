@@ -1,6 +1,6 @@
 import twitter
 from django.core.exceptions import PermissionDenied
-from Challenge_task import settings
+from twitter_project import settings
 
 
 def verify_credentials():
