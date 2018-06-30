@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Challenge_task.urls'
+ROOT_URLCONF = 'simple-twitter-project.urls'
 
 TEMPLATES = [
     {
