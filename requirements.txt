@@ -2,7 +2,7 @@ attrs==17.4.0
 certifi==2018.4.16
 chardet==3.0.4
 Django==2.0.4
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 future==0.16.0
 idna==2.6
 more-itertools==4.1.0
